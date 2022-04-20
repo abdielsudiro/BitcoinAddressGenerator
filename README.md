@@ -3,7 +3,7 @@
 This is a sample code for Bitcoin Address Generation. Transactions provide to transfer assets between Bitcoin wallets that keep private
 key and bitcoin address. Private key ensure that the transaction comes from the owner of the wallet. Generating bitcoin address as offline
 is possible. This code explains how you can generate bitcoin address step by step. As you see at below figure, there are some operations
-while bitcoin address is generated.
+while bitcoin address is generated. Change by Abdiel.
 
 ![alt text](item1.png)
 
